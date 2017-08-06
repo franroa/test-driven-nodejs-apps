@@ -1,0 +1,15 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "istanbul cover node_modules/mocha/bin/_mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.5.0",
+    "sinon": "^3.0.0"
+  }
+}
