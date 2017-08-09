@@ -1,4 +1,3 @@
-
 var Stockfetch = require('./stockfetch');
 
 var onError = function(error) { console.log(error); };
